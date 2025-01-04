@@ -3,6 +3,7 @@
   "mod_disabled": null,
   "latest_changelog": [
     "Added feature A",
-    "Fixed bug B"
+    "Fixed bug B",
+    "Improved feature C"
   ]
 }
