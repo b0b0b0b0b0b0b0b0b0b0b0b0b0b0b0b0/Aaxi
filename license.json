@@ -1,4 +1,7 @@
 {
   "uuid": "5f499095-7a2f-4d5a-8319-a4340926b420",
-  "commercial": true
+  "commercial": true,
+  "exp": 1736352552,
+  "iat": 1736006952,
+  "nbf": 1736006952
 }
