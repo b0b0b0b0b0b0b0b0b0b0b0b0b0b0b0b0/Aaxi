@@ -3,7 +3,7 @@
   "server": "exampleServer",
   "host": "localhost",
   "commercial": true,
-  "exp": 1736093352,
-  "iat": 1736006952,
-  "nbf": 1736006952
+  "exp": 1704373375,
+  "iat": 1704373375,
+  "nbf": 1704373375
 }
