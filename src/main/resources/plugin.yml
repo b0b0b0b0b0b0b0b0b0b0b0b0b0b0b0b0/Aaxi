@@ -1,0 +1,6 @@
+name: Axi
+version: '1.1'
+main: com.bobobo.plugins.axi.Axi
+api-version: '1.21'
+authors: [ b0b0b0 ]
+website: https://black-minecraft.com/
