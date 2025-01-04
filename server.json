@@ -1,0 +1,6 @@
+{
+  "uuid": "example-uuid",
+  "server": "exampleServer",
+  "host": "localhost",
+  "commercial": true
+}
